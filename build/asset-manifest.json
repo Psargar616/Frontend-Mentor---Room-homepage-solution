@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f77e34f7.css",
+    "main.js": "/static/js/main.427108c3.js",
+    "static/media/image-about-dark.jpg": "/static/media/image-about-dark.329bbc446c27ddf69d0f.jpg",
+    "static/media/logo.svg": "/static/media/logo.8fad054264a8e979d2bbe8ac73867178.svg",
+    "index.html": "/index.html",
+    "static/media/icon-close.svg": "/static/media/icon-close.3e88bd6e1dd859233d65f8222e8ccb74.svg",
+    "static/media/icon-arrow.svg": "/static/media/icon-arrow.84087786c5e572d7f27f2672642badd5.svg",
+    "static/media/icon-hamburger.svg": "/static/media/icon-hamburger.dc022bac537a273572af58dec556ed7e.svg",
+    "static/media/icon-angle-left.svg": "/static/media/icon-angle-left.d53877dfd9c6774a68749ad0239b4ce1.svg",
+    "static/media/icon-angle-right.svg": "/static/media/icon-angle-right.0ed3f81fbd14b3bd61d875b7df144e4c.svg",
+    "main.f77e34f7.css.map": "/static/css/main.f77e34f7.css.map",
+    "main.427108c3.js.map": "/static/js/main.427108c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f77e34f7.css",
+    "static/js/main.427108c3.js"
+  ]
+}
