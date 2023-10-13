@@ -69,7 +69,7 @@ const DisplayImages = () => {
           {/* desc div */}
           <div className="w-[100%]  p-8 lg:p-12 sm:col-span-1 lg:col-span-4   relative  flex justify-center items-start  flex-col">
             <h1 className="text-4xl ">{item.title}</h1>
-            <p className="text-slate-900  opacity-70 my-6">{item.desc}</p>
+            <p className="text-slate-900 opacity-70 my-6">{item.desc}</p>
             <button className="flex items-center uppercase gap-4 tracking-[0.5rem] hover:opacity-70 xs:mb-4 lg:mb-4 xl:mb-0">
               Shop Now
               <img src={arrow} alt="arrow icon" />
